@@ -1,0 +1,48 @@
+sandwich weight
+222.9 -> 9" x 24"
+214.1 -> 9 x 24
+
+===========================================
+UT53-000-002 - Fuselage UT-X2 Top Assembly
+===========================================
+-------------------------------------------
+UT53-002-051 - Front Fuselage sub-assembly
+-------------------------------------------
+
+UT53-051-061 - Fuselage Nose sub-sub-assembly
+
+UT53-061-101 - Fuselage Nose panel left
+UT53-061-102 - Fuselage Nose hinging panel right
+UT53-061-103 - Fuselage Nose top panel
+UT53-061-104 - Fuselage Nose front panel
+
+-------------------------------------------
+
+UT53-051-062 - Front Fuselage sub-sub-assembly
+
+UT53-062-101 - Front Fuselage left panel
+UT53-062-102 - Front Fuselage top panel
+UT53-062-103 - Front Fuselage bottom front panel
+UT53-062-104 - Front Fuselage bottom aft panel
+UT53-062-105 - Front Fuselage payload and battery mounting platform
+UT53-062-106 - Front Fuselage BH1
+UT53-062-107 - Front Fuselage BH2a
+UT53-062-107* - Front Fuselage BH2b
+UT53-062-109 - Front Fuselage BH3a
+UT53-062-110* - Front Fuselage top forward hatch
+UT53-062-111* - Front Fuselage top aft hatch
+
+-------------------------------------------
+UT53-002-052 - Aft Fuselage sub-assembly
+-------------------------------------------
+
+UT53-052-101 - Aft Fuselage left panel
+UT53-052-102 - Aft Fuselage wing mount
+UT53-052-103 - Aft Fuselage top aft panel
+UT53-052-104 - Aft Fuselage landing gear mount
+UT53-052-105 - Aft Fuselage BH3b
+UT53-052-106 - Aft Fuselage BH4
+UT53-052-107 - Aft Fuselage BH5
+UT53-052-108 - Aft Fuselage Firewall BH6
+UT53-052-109* - Aft Fuselage side front hatch
+UT53-052-110* - Aft Fuselage side aft hatch
